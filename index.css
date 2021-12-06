@@ -1,0 +1,43 @@
+body{
+    text-align : center;
+    background-color : #966441;
+  }
+  
+  *{
+    margin :0;
+    padding :0;
+  }
+  
+  #head{
+    font-size : 80px;
+    font-family : arial;
+    margin-bottom :90px;
+    color : #fff;
+  }
+
+  #container{
+    border : none;
+    border-radius : 10px;
+    width : 600px;
+    margin : auto;
+    padding : 44px;
+    background-color: rgb(101, 174, 174);
+  }
+  
+  .input{
+    font-size : 29px;
+    font-family : monospace;
+    border-radius : 5px;
+    width : 550px;
+    border :none;
+  }
+
+  .btn{
+    font-size : 26px;
+    font-family : arial;
+    color : #fff;
+    background-color : rgba(71, 71, 206, 0.8);
+    border : none;
+    border-radius: 0.4rem;
+    padding : 4px;
+  }
